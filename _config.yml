@@ -1,0 +1,27 @@
+title:              
+email:              rugile.matuleviciute@gmail.com
+description:        
+author:             Rugile Matuleviciute
+baseurl:            "website"
+url:                "https://rugilemat.github.io"
+
+# Social Profiles
+twitter_username:   rugilemat
+github_username:    rugilemat
+facebook_username:  
+linkedin_username:  Rugile Matuleviciute
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-twitter-plugin
+  ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
