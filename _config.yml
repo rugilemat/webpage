@@ -1,15 +1,15 @@
 title:              GOSPL project
 email:              rugile.matuleviciute@gmail.com
 description:        
-author:             Rugile Matuleviciute
+author:             GOSPL
 baseurl:            "webpage"
 url:                "https://rugilemat.github.io"
 
 # Social Profiles
-twitter_username:   rugilemat
-github_username:    rugilemat
+twitter_username:   
+github_username:    
 facebook_username:  
-linkedin_username:  Rugile Matuleviciute
+linkedin_username: 
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   
